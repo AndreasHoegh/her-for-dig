@@ -4,7 +4,7 @@ export default {
   theme: {
     extend: {
       backgroundImage: {
-        malkebotter: "url('src/assets/hfd.jpg')", // Definér brugerdefineret baggrundsbillede
+        malkebotter: "url('/hfd.jpg')", // Definér brugerdefineret baggrundsbillede
       },
       fontFamily: {
         poppins: ["Poppins"], // Skrifttypen Poppins
